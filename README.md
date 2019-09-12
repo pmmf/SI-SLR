@@ -11,6 +11,15 @@ Source code for the implementation of the **Signer-Invariant Sign Language Recog
 
 ## Example of Usage
 
+***Train:*** 
+~~~bash
+python run.py --adv_weight=0.6 --transf_weight=0.0002 --model=transf_cnn --dataset=staticSL --gpu=0 --mode=train
+~~~
+
+***Test:*** 
+~~~bash
+python run.py --adv_weight=0.6 --transf_weight=0.0002 --model=transf_cnn --dataset=staticSL --gpu=0 --mode=train
+~~~
 
 ## Datasets
 Jochen-Triesch database: Jochen Triesch and Christoph von der Malsburg. A system for person-independent hand posture recognition against complex backgrounds. IEEE Trans. Pattern Anal. Mach. Intell., 23(12):1449–1453, December 2001.
