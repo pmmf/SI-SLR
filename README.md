@@ -4,7 +4,7 @@ Learning Signer-Invariant Representations with Adversarial Training
 ## Description
 Source code for the implementation of the **Signer-Invariant Sign Language Recognition Neural Network**, as described in the paper:
 
-**Ferreira, P. M., Pernes, D., Rebelo, A., and Cardoso, J. S. (2019c). Learning signer-invariant representations with adversarial training. In The 12th International Conference on Machine Vision (ICMV 2019)**
+**Ferreira, P. M., Pernes, D., Rebelo, A., and Cardoso, J. S.. Learning signer-invariant representations with adversarial training. In The 12th International Conference on Machine Vision (ICMV 2019)**
 
 | [![page1](./imgs/signer_invariant_nn.png)](https://github.com/pmmf/CorSiL/blob/master/paper/CorSiL_paper.pdf)  |
 |:---:|
