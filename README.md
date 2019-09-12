@@ -18,7 +18,7 @@ python run.py --adv_weight=0.6 --transf_weight=0.0002 --model=transf_cnn --datas
 
 ***Test:*** 
 ~~~bash
-python run.py --adv_weight=0.6 --transf_weight=0.0002 --model=transf_cnn --dataset=staticSL --gpu=0 --mode=test
+python run.py --model=transf_cnn --dataset=staticSL --gpu=0 --mode=test
 ~~~
 
 ## Datasets
