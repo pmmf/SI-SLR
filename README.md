@@ -22,6 +22,6 @@ python run.py --adv_weight=0.6 --transf_weight=0.0002 --model=transf_cnn --datas
 ~~~
 
 ## Datasets
-Jochen-Triesch database: Jochen Triesch and Christoph von der Malsburg. A system for person-independent hand posture recognition against complex backgrounds. IEEE Trans. Pattern Anal. Mach. Intell., 23(12):1449–1453, December 2001.
+**Jochen-Triesch database**: Jochen Triesch and Christoph von der Malsburg. A system for person-independent hand posture recognition against complex backgrounds. IEEE Trans. Pattern Anal. Mach. Intell., 23(12):1449–1453, December 2001.
 
-Microsoft Kinect and Leap Motion American sign language dataset: Giulio Marin, Fabio Dominio, and Pietro Zanuttigh. Hand gesture recognition with jointly calibrated leap motion and depth sensor. Multimedia Tools and Applications, 75(22):14991–15015, Nov 2016.
+**Microsoft Kinect and Leap Motion American sign language dataset**: Giulio Marin, Fabio Dominio, and Pietro Zanuttigh. Hand gesture recognition with jointly calibrated leap motion and depth sensor. Multimedia Tools and Applications, 75(22):14991–15015, Nov 2016.
